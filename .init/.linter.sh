@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/secure-video-call-platform-176190-176199/video_calling_app_frontend
+flutter analyze
+
